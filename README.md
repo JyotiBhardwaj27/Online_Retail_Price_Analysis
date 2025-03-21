@@ -26,7 +26,7 @@ The aim of this project is to develop an interactive Power BI report that provid
 
 ## **🎥 Demo**
 
-**Dashboard Demo Video:** [Link to Video]
+**Dashboard Demo Video:** [https://drive.google.com/file/d/1nK_BFj9a_TDdbiCVpPyr77utjUtQzOd4/view?usp=sharing]
 
 ## **📌 Usage Instructions**
 
